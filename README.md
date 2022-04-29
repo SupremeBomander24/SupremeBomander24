@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupremeBomander24
 - 👀 I’m interested in ... Web3, Cloud Technology, the Metaverse
-- 🌱 I’m currently learning ... Python, React, Javascript
+- 🌱 I’m currently learning ... Python, AWS, Bash scripting
 - 💞️ I’m looking to collaborate on ... Web3 projects, Python Projects, and anything to get my foot in the door
 - 📫 How to reach me ... cduenasjj99@gmail.com or 16829995698 or on Twitter @ConTheDon24
 
